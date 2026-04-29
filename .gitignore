@@ -1,0 +1,16 @@
+# Secret keys — NEVER upload this
+.env
+
+# Virtual environment (too big, others install their own)
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude app settings (personal, not needed by others)
+.claude/
+
+# Mac junk
+.DS_Store
