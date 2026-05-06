@@ -121,7 +121,7 @@ with st.sidebar:
     st.divider()
 
     st.subheader("Your Seller Context")
-    your_name = st.text_input("Your Name", placeholder="Jane Smith")
+    your_name = st.text_input("Your Name", placeholder="Yoshita")
     your_company = st.text_input("Your Company", placeholder="Acme Corp")
     what_you_sell = st.text_area(
         "What You Sell",
